@@ -11,7 +11,7 @@ INSTRUCTIONS TO DOWNLOAD, COMPILE AND INSTALL THE NEW KERNEL AND PAPI LIBRARY
 	tar -xvzf linux-4.5.3.tar.gz
 
 3. Copy and paste the modified files before compiling
-	look at "modified_kernel_source" folder: each folder name corresponds to the path for source code
+	look at "Kernel-4_5_3/modified_kernel_source" folder: each folder name corresponds to the path for source code
 
 4. Go to "linux-4.5.3" folder and run "compile_kernel_first_time.sh"
 
